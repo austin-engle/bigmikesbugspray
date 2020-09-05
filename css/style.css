@@ -1,0 +1,24 @@
+body {
+    font-family: 'Roboto Slab', serif;  
+    background: whitesmoke;
+}
+
+.jumbotron {
+    text-align: center;
+    background-image: url('../images/bug.jpg');
+    width: vw;
+    display: block;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 10% 40%;
+    color: white;
+}
+
+.jumbotron a {
+    color: white;
+}
+
+.facebook a {
+    font-size: 70px;
+}
